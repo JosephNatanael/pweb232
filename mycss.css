@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(229, 230, 173);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  #pertama
+  {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  .kedua
+  {
+    color: rgb(0, 255, 128);
+    font-size: 50px;
+    text-align: center;
+  }

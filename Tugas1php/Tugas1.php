@@ -2,10 +2,12 @@
 <html lang="en">
 <head>
     <title>Tugas 1</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="mycss.css">
 </head>
 <body>
-    <table border="1">
-        <a href="Tugas11.php" target="_self"><input type="button" name="plus" value="+"></a>
+    <table>
+        <a href="Tugas11.php" target="_self" class="btnA"><i class="fa fa-plus"></i></a>
         
         <tr>
             <th rowspan="2">
@@ -49,7 +51,7 @@
                 350
             </td>
             <td>
-                <a href="Tugas12.php" target="_self"><input type="button" name="update" value="update"></a>
+                <a href="Tugas12.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
             </td>
         </tr>   
         <tr>
@@ -69,7 +71,7 @@
                 450
             </td>
             <td>
-                <a href="Tugas12.php" target="_self"><input type="button" name="update" value="update"></a>
+                <a href="Tugas12.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
             </td>
         </tr>
         <tr>
@@ -89,7 +91,7 @@
                 550
             </td>
             <td>
-                <a href="Tugas12.php" target="_self"><input type="button" name="update" value="update"></a>
+                <a href="Tugas12.php" target="_self" class="btnU"><i class="fa fa-heart"> update</i></a>
                 
             </td>
         </tr>
